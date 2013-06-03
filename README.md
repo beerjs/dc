@@ -27,6 +27,8 @@ Why BeerJS DC?
 Contact
 -------
 
-@asolove on GitHub or Twitter.
+Adam Solove on [GitHub](https://github.com/asolove) or [Twitter](https://twitter.com/asolove).
+
+
 
 ![BeerJS logo](https://secure.gravatar.com/avatar/43c360c53b793cfb13f77efcee3bd5cb?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png)
