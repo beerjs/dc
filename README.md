@@ -2,8 +2,10 @@ BeerJS DC
 =========
 
 BeerJS DC is a welcoming get-together for everyone who wants to learn about JavaScript. 
-We meet the second Tuesday of the month at [Matchbox Chinatown](http://www.yelp.com/biz/matchbox-chinatown-washington). 
+We meet the second Tuesday of the month. 
 That's all the planning we have: whoever shows up decides what happens.
+
+**Our first meeting will be June 11 at [Matchbox Chinatown](http://www.yelp.com/biz/matchbox-chinatown-washington)**
 
 Want to join?
 -------------
