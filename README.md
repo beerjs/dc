@@ -2,11 +2,10 @@ BeerJS DC
 =========
 
 BeerJS DC is a welcoming get-together for everyone who wants to learn about JavaScript. 
-We meet the second Tuesday and third Wednesday of the month. 
+We meet the third Wednesday of the month. 
 That's all the planning we have: whoever shows up decides what happens.
 
-**Our first meeting will be June 11 at [Matchbox Chinatown](http://www.yelp.com/biz/matchbox-chinatown-washington)**
-**Our second meeting will be June 19 at [The Big Hunt](http://thebighunt.net/) in Dupont**
+**Our first meeting will be June 19 at [The Big Hunt](http://thebighunt.net/) in Dupont**
 
 Want to join?
 -------------
