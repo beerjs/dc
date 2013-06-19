@@ -7,6 +7,8 @@ That's all the planning we have: whoever shows up decides what happens.
 
 **Our first meeting will be June 19 at [The Big Hunt](http://thebighunt.net/) in Dupont at 7:30pm**
 
+Last minute change of plans: tweet @asolove to find out which bar near DuPont we end up at. 
+
 Want to join?
 -------------
 
