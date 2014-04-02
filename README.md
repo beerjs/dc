@@ -5,7 +5,7 @@ BeerJS DC is a welcoming get-together for everyone who wants to learn about Java
 We meet the third Wednesday of the month. 
 That's all the planning we have: whoever shows up decides what happens.
 
-* **Our next meeting will be Wednesday, October 16, 2013, at 6:30pm, at [The Big Hunt](http://thebighunt.net/) in Dupont**
+* **Our next meeting will be Monday, April 7, 2013, at 6:30pm, at [Barcode](http://www.barcodedc.com/) by Farragut Square.**
 
 * Our first meeting was June 19 at Beer and Bread in Dupont.
 
